@@ -1,3 +1,7 @@
+//COMPLETELY BROKEN
+//I SHOULD START FROM SCRATCH
+// :(
+
 function printSongs( songs ) {
   var listHTML = '<ol>';
   for (var i = 0; i < songs.length; i += 1) {
